@@ -1,6 +1,6 @@
 .box-layout {
   align-items: center;
-  background: url('/images/bg.jpg');
+  background: url('/images/journal.jpg');
   background-size: cover;
   display: flex;
   height: 100vh;
@@ -10,7 +10,7 @@
 
 .box-layout__box {
   border-radius: 4px;
-  background: fade-out(#eee, .25);
+  background: fade-out(#bbb, .25);
   padding: $l-size $m-size;
   text-align: center;
   width: 25rem;
